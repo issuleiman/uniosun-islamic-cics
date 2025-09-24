@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "month": 9,
+    "year": 2024,
+    "regularSavings": 15000,
+    "specialSavings": 5000,
+    "shares": 7500,
+    "investment": 10000,
+    "loanRepayment": 8000,
+    "overDeduction": 0,
+    "underDeduction": 0,
+    "ileyaLoan": 0,
+    "business": 0,
+    "createdAt": "2024-09-01T00:00:00.000Z",
+    "updatedAt": "2024-09-01T00:00:00.000Z"
+  }
+]

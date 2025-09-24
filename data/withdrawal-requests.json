@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "memberId": "MEMBER001",
+    "memberName": "John Doe",
+    "amount": 25000,
+    "reason": "Emergency medical expenses",
+    "status": "approved",
+    "adminNotes": "Approved for emergency withdrawal",
+    "createdAt": "2024-08-15T00:00:00.000Z",
+    "updatedAt": "2024-08-16T00:00:00.000Z"
+  }
+]

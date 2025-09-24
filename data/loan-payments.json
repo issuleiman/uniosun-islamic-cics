@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "loanId": 1,
+    "amount": 8333,
+    "paymentDate": "2024-08-01",
+    "month": 8,
+    "year": 2024,
+    "createdAt": "2024-08-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "loanId": 1,
+    "amount": 8333,
+    "paymentDate": "2024-09-01",
+    "month": 9,
+    "year": 2024,
+    "createdAt": "2024-09-01T00:00:00.000Z"
+  }
+]

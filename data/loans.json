@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "loanId": "LOAN001",
+    "userId": 2,
+    "memberId": "MEMBER001",
+    "memberName": "John Doe",
+    "amount": 100000,
+    "interestRate": 0,
+    "termMonths": 12,
+    "monthlyPayment": 8333,
+    "remainingBalance": 75000,
+    "status": "active",
+    "applicationId": 1,
+    "createdAt": "2024-07-01T00:00:00.000Z",
+    "updatedAt": "2024-09-01T00:00:00.000Z"
+  }
+]
